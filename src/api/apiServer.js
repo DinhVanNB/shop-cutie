@@ -1,0 +1,3 @@
+export const API_TOKEN = 'afe8096a4e80da92ca5b82c6e5fca5af83360383e1534af3b8af1514bc325286d337eea7b310f28be276d59e0fd21c3a9dcd7c57929723245019250cc4699711eccc23d86416fab2b58168423e4775a4f8a43a965f768837056f66e631a939cae0f0ba17508d7eb8a7cb90b7daeff0299e973f74ec02c1deb7e3178474532381';
+export const API_URL = 'http://localhost:1337/api';
+export const HOST = 'http://localhost:1337';
